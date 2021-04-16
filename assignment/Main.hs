@@ -25,6 +25,6 @@ main =
       renderer seconds = 
         pictures [
            face,
-           hand seconds,
+           hand (seconds*60),
            hub
          ]
