@@ -1,4 +1,4 @@
-# Revision history for assignment
+# Revision history for ctest
 
 ## 0.1.0.0 -- YYYY-mm-dd
 
