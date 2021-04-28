@@ -5,8 +5,8 @@ import Graphics.Gloss
 -- forward pipeline
 (|>) x f = f x
 
---I'm not entirely sure how to do parts 3 or 4. Below is my best guess, but I'm not sure how to interpret the errors. Apologies--I will try to start earlier and set up a meeting
---if I get stuck next time. 
+--I'm not entirely sure how to do parts 3 or 4. Below is my best guess, but I'm not sure how to interpret the errors. Apologies--I will try to start earlier
+--and set up a meeting if I get stuck next time. 
 format seconds = ((String)(seconds / 60) ++ ":" ++ (String)(seconds mod 60))
 
 face = 
